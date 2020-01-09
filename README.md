@@ -58,11 +58,5 @@
 
 
 
-<div align="center">
-  <h5>感谢老师给予的平台，少年，一路向前奔驰</h5>
-  <p>![少年](https://images.gitee.com/uploads/images/2020/0109/210557_2b1fd664_1831543.png "屏幕截图.png")
-</p>
-  <p>Seeking True from Fact 网新人，有态度，不认输，不头秃</p>
-</div>
 >感谢老师给予的平台，少年，一路向前奔驰
 >![少年](https://images.gitee.com/uploads/images/2020/0109/210557_2b1fd664_1831543.png "屏幕截图.png")
