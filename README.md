@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>:whale2: API_ML_AI_Practice :whale2:</h1>
-  <p>中国海外人才交流会课外活动实践 APP</p>
+  <p>中国海外人才交流会课外活动实践</p>
   <p>Seeking True from Fact 网新人，有态度，不认输，不头秃</p>
 </div>
 
